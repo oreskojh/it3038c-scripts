@@ -8,11 +8,17 @@
     <li>Locate the script's download location</li>
     <li>Right click the file and select "Run with Powershell"</li>
     <li>Enter the drive name. </li>
-      <ul><li><b>NOTE:</b>  You do not need to enter ":\" part of the drive name</li></ul> 
+      <ul><li><b>NOTE:</b>  You do not need to enter ":\" part of the drive name and the input is not case sensitive.</li></ul> 
     <li>Once you have run the script. Hit "Enter" to exit out of the script Window.</li>
   </ul>
 </body>
+<h2>Expected Script Results</h2>
+<body>
+  The script results should look something like the picture below before you hit enter to escape out of the PowerShell Window. <br>
 
+
+
+</body>
 <h2>Sources</h2>
 <body>
   While all the code is original, 
