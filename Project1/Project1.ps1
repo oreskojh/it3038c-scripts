@@ -9,3 +9,6 @@ $freeStorageSpaceGB = [math]::round(($freeStorageSpace / 1GB), 2)
 $freeStorageSpacePercent = [math]::round($freeStorageSpace / ($freeStorageSpace + $usedStorageSpace) * 100, 2)
 
 Write-Host "On Drive $driveName there is currently $freeStorageSpacePercent% or $freeStorageSpaceGB GB of storage left."
+
+#This Read-Host is used to keep the PowerShell window from closing immediately after running the script.
+Read-Host "Please hit Enter to exit"
