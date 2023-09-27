@@ -8,7 +8,7 @@
     <li>Locate the script's download location</li>
     <li>Right click the file and select "Run with Powershell"</li>
     <li>Enter the drive name. </li>
-      <ul><li><b>NOTE:</b>  You do not need to enter the full path name such as C:\</li></ul> 
+      <ul><li><b>NOTE:</b>  You do not need to enter ":\" part of the drive name</li></ul> 
     <li>Once you have run the script. Hit "Enter" to exit out of the script Window.</li>
   </ul>
 </body>
