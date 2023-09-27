@@ -15,8 +15,8 @@
 
 <h2>Sources</h2>
 <body>
-All the code is original. <br>
-Learning to use the various modules in this project was done using the Reference section of <a href="https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.3">Microsoft's PowerShell Documentation</a>
+  While all the code is original, 
+  learning to use the various modules in this project was done using <br>
+  the Reference section of <a href="https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.3">Microsoft's PowerShell Documentation</a>
 
-  
 </body>
