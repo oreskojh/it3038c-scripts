@@ -15,7 +15,9 @@
 <h2>Expected Script Results</h2>
 <body>
   The script results should look something like the picture below before you hit enter to escape out of the PowerShell Window. <br>
-  ![Image 1](ScriptExample/P1ScriptExample.jpg)
+  ![image](https://github.com/oreskojh/it3038c-scripts/assets/74508224/8142902d-b6d0-4634-b507-14bcf4519542)
+
+
 
 
 </body>
