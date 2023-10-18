@@ -23,5 +23,5 @@
     Please see the screenshot below of an example of what the results should look like:</p>
     <img src="ExpectedResults/P2ExpectedResults.jpg">
   <h2>Sources</h2>
-  
+  <p>The code is mostly original, however, I did use <a href="https://sid-500.com/2017/06/27/powershell-how-to-find-large-files-with-get-childitem/"> this site</a> as a fundamental guideline on how to pull the data I needed and changed it as necessary. For the rest of the script I utilized <a href="https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.3">Microsoft's PowerShell Dcoumentation</a> to assist.</p>
 </body>
