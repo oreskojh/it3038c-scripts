@@ -5,7 +5,7 @@ $userContinue = "yes"
 $outputCsv = "$HOME\Downloads\DriveFileSizeCheck.csv"
 
 #While Loop allows for user to continuously run the script as long as they want
-while ($userContinue -eq 'yes' -OR $userContinue -eq 'y') {
+while ($userContinue -ieq 'yes' -OR $userContinue -ieq 'y') {
     #$inputValidation creates a block that is used to force the script to run continuously until the user inputs a valid drive name utilizing the call (.) dot source operator
     $inputValidation= {
         #Try Catch block catches if user inputs a drive that doesn't exist or not and forces the script to run through again
