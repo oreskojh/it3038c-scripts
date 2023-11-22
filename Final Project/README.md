@@ -18,7 +18,7 @@
   <li>Once the script has run, it will ask you if you want to continue. You can use one of the following options:</li>
   <ul>
     <li>Input 'y' or 'yes' if you want to run through the script again, it is case insensitve, and hit enter.</li>
-    <li>Enter any key or hit enter to end the script.</li>
+    <li>Enter any key and hit enter or hit enter to end the script.</li>
   </ul>
   <li>Once you don't input 'y' or 'yes' the script will end.</li>
 </ol>
