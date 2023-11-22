@@ -14,6 +14,7 @@
   <li>Locate the script's download path. The default download location should be <code>$HOME\Downloads\</code>but can vary depending on settings.</li>
   <li>Open PowerShell core</li>
   <li>Change your directory using <code>cd</code> to change the directory to your download location to the download location. </li>
+  <li>Input <code>powershell FinalProject.ps1</code> into the command line and hit enter to start the script.</li>
   <li>Enter a drive name you want to check.</li>
   <li>Once the script has run, it will ask you if you want to continue. You can use one of the following options:</li>
   <ul>
