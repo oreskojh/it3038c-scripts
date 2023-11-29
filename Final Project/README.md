@@ -49,12 +49,13 @@ https://github.com/oreskojh/it3038c-scripts/assets/74508224/4539418d-179e-484a-9
 <ul>
   <li>If the user has more than 10 files that are larger than 200MB, then the results will be output to a CSV file found in <code>$HOME\Downloads\</code> with a file name of "DriveFileSizeCheck.csv" When you open up the file, the list of results will be in descending file size. A column for the full file name/path will exist and a column with the file size in Bytes will exit. Please see the screenshots below to see these results:</li>
   <ul>
+    <br><li><img src="Results/FPScriptResults4.jpg"></li><br>
     <li><img src="Results/FPScriptResults2.jpg"></li> <br>
     <li><img src="Results/FPScriptResults3.jpg"></li>
   </ul>
   <li>If the user has 10 files or less files larger than 200MB but greater than 0, the file full file name/path and file size in MegaBytes will be listed. The screenshot below shows what this looks like, as well as the expected terminal output if the user has more than 10 files larger than 200MB:</li>
-  <ul><li><img src="Results/FPScriptResults.jpg"></li></ul>
-  <li>Finally, if you have zero files that are larger than 200MB, then you will get a message saying you don't have any files larger than 200MB as well as the current available drive space. There are no screenshots for me to provide since I would need to delete the files from the drive in order to demonstrate the results.</li>
+  <ul><li><img src="Results/FPScriptResults5.jpg"></li></ul>
+  <li>Finally, if you have zero files that are larger than 200MB, then you will get a message saying you don't have any files larger than 200MB as well as the current available drive space.</li>
 </ul>
 <h2>Sources</h2>
 <ul>
