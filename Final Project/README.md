@@ -1,4 +1,14 @@
 <h1 align="center">💾 Drive Check 💾</h1>
+<h2>Table of Contents</h2>
+<ul>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#why-use"> Why Use</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#features">Features</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#before-you-run-the-script">Before You Run</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#script-instructions">Script Instructions</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#demo">Demo</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#expected-results">Expected Results</a></li>
+  <li><a href="https://github.com/oreskojh/it3038c-scripts/tree/main/Final%20Project#sources">Sources</a></li>
+</ul>
 <h2>Why Use?</h2>
 <p>While it is easy to see how much storage space a drive has left, it isn't always so easy to identify large files on a system. A consistently used computer can contain numerous files stored in a multitude of different  directories. Additionally, some people also consistently use multiple drives on their computer which further complicates identifying larger files. This script provides the user to check a specific drive to identify all the files larger than 200MB.</p>
 <h2>Features</h2>
@@ -31,6 +41,8 @@
   <li>Once you don't input 'y' or 'yes' the script will end.</li>
 </ol>
 <h2>Demo</h2>
+
+https://github.com/oreskojh/it3038c-scripts/assets/74508224/4539418d-179e-484a-90e8-fb6bff205b5b
 
 <h2>Expected Results</h2>
 <p>In one way or another, the script will output a list of file names with their full paths and their file size; as well as, the remaining storage left over in the drive the user selected. The two primary expected results should be: </p>
